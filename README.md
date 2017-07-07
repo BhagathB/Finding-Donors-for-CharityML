@@ -22,3 +22,6 @@ List of files - Description :
 census.csv: The project dataset. You?ll load this data in the notebook.
 visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
 finding_donors.ipynb: This is the main file notebook file for the project.
+
+output
+findig donars for charity with 80% accuracy
